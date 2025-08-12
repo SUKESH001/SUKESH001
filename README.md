@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SUKESH001
 - 👀 I’m interested in Back End Development.
 - 🌱 I’m currently learning Java in Scaler Academy.
-- @  I'm working as Software Developemnt Engineer in MountBlue Technologies
+- @  I'm working as QA Engineer in Homelane
 - 💞️ I’m looking to collaborate on any beginner project involving Java Back end development and Databases.
 - 📫 if you want to reach me (mail) - sukeshgowdakr54@gmail.com
 
